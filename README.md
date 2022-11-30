@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @willik01
-- 👀 I’m interested in coding, tennis, urban hiking & video games
-- 🌱 I’m currently developing in Javascript, React.js, Express, CSS, HTML, Python, Django, & Java
-- 💞️ I’m looking to collaborate on building full stack apps
-- 📫 How to reach me: willik01@gmail.com
+Hi, I’m @willik01 👋 
+
+I am a software engineer bringing 20+ years of Product Management experience to solve customer problems with full stack solutions. I thrive on diving into customer pain-points to understand how to develop software that address real problems and improve user productivity and happiness. I believe that communication is paramount and have successfully connected business & development teams to ensure business requirements are addressed efficiently. I am looking for opportunities to apply my past and present skills to make a difference for end users.
+
+- 🌱 I’m currently developing in JavaScript, Node.js, React.js, Express.js, MongoDB, Mongoose, HTML, CSS, Python, Django, PostgreSQL & Java
+- 📫 How to reach me: willik01@gmail.com 
+- Frist computing experience: [Playing 'video' games](https://www.pcmag.com/news/the-forgotten-world-of-teletype-computer-games) on a [Teletype](https://en.wikipedia.org/wiki/Teletype_Model_33)
+- First 'personal computer': [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET "High capacity, quick access cassette storage!")
 <!---
 
 willik01/willik01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
