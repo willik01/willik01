@@ -5,7 +5,7 @@ I am a software engineer bringing 20+ years of Product Management experience to 
 - 🌱 I’m currently developing in JavaScript, Node.js, React.js, Express.js, MongoDB, Mongoose, HTML, CSS, Python, Django, PostgreSQL & Java
 - 📫 How to reach me: willik01@gmail.com 
 - Frist computing experience: [Playing 'video' games](https://www.pcmag.com/news/the-forgotten-world-of-teletype-computer-games) on a [Teletype](https://en.wikipedia.org/wiki/Teletype_Model_33)
-- First 'personal computer': [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET "High capacity, quick access cassette storage!")
+- First use of a 'personal computer': [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET "High capacity, quick access cassette storage!")
 <!---
 
 willik01/willik01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
