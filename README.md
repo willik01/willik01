@@ -1,7 +1,5 @@
 Hi, I’m @willik01 
 
-***Happy 2023 everyone!***
-
 I am a software engineer bringing 20+ years of Product Management experience to solve customer problems with full stack solutions. I thrive on diving into customer pain-points to understand how to develop software that address real problems and improve user productivity and happiness. I believe that communication is paramount and have successfully connected business & development teams to ensure business requirements are addressed efficiently. I am looking for opportunities to apply my past and present skills to make a difference for end users.
 
 - 🌱 I’m currently developing in JavaScript, Node.js, React.js, Express.js, MongoDB, Mongoose, HTML, CSS, Python, Django, PostgreSQL & Java
